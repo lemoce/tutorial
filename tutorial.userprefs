@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="tutorial/tutorial.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="events/Program.cs">
+    <Files>
+      <File FileName="events/Program.cs" Line="25" Column="2" />
+      <File FileName="events/Subscribers.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
